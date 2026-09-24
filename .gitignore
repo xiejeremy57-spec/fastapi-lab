@@ -1,0 +1,16 @@
+# 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 环境变量（数据库密码等）
+.env
+
+# PyCharm 配置
+.idea/
+
+# VS Code 配置
+.vscode/
