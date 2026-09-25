@@ -16,3 +16,5 @@ class UserResponse(BaseModel):
     username: str
     age: int
     email: EmailStr
+class ChatRequest(BaseModel):
+    message: str
